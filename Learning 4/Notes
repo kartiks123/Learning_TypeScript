@@ -1,0 +1,21 @@
+Today, we will be creating our first program. Inside that, we are going to do the following :
+
+1) Make TypeScript file.
+2) Generate JS file.
+3) Make an HTML file and add JS file here.
+4) Run program on the browser.
+5) Discuss some Interview Questions.
+
+
+**Interview Questions:**
+
+Q1) When I am creating 5 .ts files, and when I run "tsc /file-name/.ts " in the terminal, does it create separate .js files for the same or does it compiles it on 1 single .js file.
+A1) When you run the TypeScript compiler (tsc) on multiple .ts files individually like tsc file1.ts, tsc file2.ts, etc., it compiles each .ts file separately into its corresponding .js file.
+
+For example, if you have five TypeScript files named file1.ts, file2.ts, file3.ts, file4.ts, and file5.ts, running tsc file1.ts, tsc file2.ts, tsc file3.ts, tsc file4.ts, and tsc file5.ts will generate five JavaScript files named file1.js, file2.js, file3.js, file4.js, and file5.js respectively.
+
+Each TypeScript file is compiled independently, resulting in a separate JavaScript file for each TypeScript source file. This behavior allows you to organize your code into multiple files and compile them separately, maintaining modularity and separation of concerns.
+
+
+Q2) Can we directly run the .ts file on the browser? 
+A2) As mentioned earlier, we cannot run the .ts file directly inside our src path of 'index.html' file. Hence, we need to mention app.js file there.
