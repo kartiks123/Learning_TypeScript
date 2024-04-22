@@ -1,0 +1,6 @@
+There are certain extensions that we require in case we want to run certain codes in typescript. Some of these are only for enhancement purpose so using them or not, totally depends on you :
+
+1) Material UI Theme
+2) ESLint
+3) Prettier
+4) Code Checker
