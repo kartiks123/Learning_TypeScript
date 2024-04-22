@@ -1,0 +1,24 @@
+1) Typescript is an enhanced version of JavaScript.
+2) Typescript is a superset of JavaScript.
+    - Just like C++ is an enhanced version of C language.
+3) TypeScript is building on JS.
+4) TS is not a new Language, this is just added with some new features in JS.
+
+
+But TS cannot run on browser directly.
+Q) So the question comes of what is the benefit of it then, if we can't even run it on browser? 
+A) TS Compiler convert the code from TS to JS. Now this JS code runs the code in browser.
+
+Q) But then in that case, why we just can't simply run and use JS, why we are using TS ?
+A) We run and use TS because of the following features :
+    1) We can check error on Compile time.
+    2) We can add types like String, Number, Bool, etc.
+    3) We can also add OOPS with TS.
+    4) Code is well managed.
+
+
+Version and History:
+1) Developed by Microsoft.
+2) Current Version : 5.4.5
+3) First Released : 1 - oct - 2012
+4) Influenced by : JavaScript
