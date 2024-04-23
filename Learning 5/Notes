@@ -1,0 +1,15 @@
+Today, we are going to learn about the Core Types or Core Data Types or Data Types inside TypeScript.
+
+1) Number : 
+   eg - 1, 10, 100, 2.5
+
+2) String :
+   eg - 'hi', "Hello", `ok`
+
+3) Boolean :
+   eg - true or false
+
+Rest we can still make arrays, objects, classes, interfaces, generics, etc. We have 3 core data types.
+
+
+Also, we cannot open both the .js and .ts files together/simultaneously. We need to close one of them before, as it will give an error that the variable has already been specified.
